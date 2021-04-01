@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hello World!
+
+  Feel free to message me anytime
+  
+  [<img src="images/circle-linkedin.svg">](https://www.linkedin.com/in/itamar-maran-a06046101/)
 
 <!--
 **ItamarMaran/ItamarMaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+reference of icons
+https://www.vectorlogo.zone/?q=
+https://icons8.com/
 -->
