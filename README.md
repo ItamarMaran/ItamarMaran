@@ -1,8 +1,30 @@
-### Hello World!
+# Hello World! Welcome to my github.
 
-  Feel free to message me anytime
-  
-  [<img src="images/circle-linkedin.svg">](https://www.linkedin.com/in/itamar-maran-a06046101/)
+<!-- about me -->
+
+## About me:
+  * <img width="18" src="https://img.icons8.com/color/96/000000/brazil-circular.png" alt="Brazil" /> I'm from Brazil
+
+## Tech Stack:
+* Programming Language
+* Artificial Inteligence Framework
+* Front end
+* Back end
+* hardware IOT
+* OS, IDEs and Tools
+
+## Github Analytics and Coding Activity:
+  <p align="left">
+  <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=ItamarMaran&theme=dark&show_icons=true&include_all_commits=true" />
+  </p>
+
+
+## Connect with me:
+  [![Linkedin Badge](https://img.shields.io/badge/-ItamarMaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/itamar-maran-a06046101/)
+
+
+
+
 
 <!--
 **ItamarMaran/ItamarMaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
