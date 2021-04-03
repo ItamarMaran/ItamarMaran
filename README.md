@@ -8,7 +8,7 @@
 ## Tech Stack:
 * Programming Language
 
-  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-dcdcdc?style=flat&logo=python)&nbsp;
   
 * Artificial Inteligence Framework
 * Front end
