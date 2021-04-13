@@ -14,6 +14,9 @@
 * Front end
 * Back end
 * hardware IOT
+
+  ![Arduino](https://img.shields.io/badge/-Arduino-dcdcdc?style=flat&logo=Arduino)&nbsp;
+  
 * OS, IDEs and Tools
 
 ## Github Analytics and Coding Activity:
