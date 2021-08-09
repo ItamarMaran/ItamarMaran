@@ -59,6 +59,7 @@ reference of icons
 https://www.vectorlogo.zone/?q=
 https://icons8.com/
 https://iconscout.com/
+https://github.com/devicons/devicon/tree/master/icons
 -->
  
  
