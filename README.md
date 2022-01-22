@@ -2,7 +2,7 @@
 
 <!-- about me -->
 
-## About me:
+## $> whoami:
   * <img width="18" src="https://img.icons8.com/color/96/000000/brazil-circular.png" alt="Brazil" /> I'm from Brazil
 
 ## Tech Stack:
