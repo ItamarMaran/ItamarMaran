@@ -34,7 +34,13 @@
 
 
 ## Connect with me:
+ <!--
   [![Linkedin Badge](https://img.shields.io/badge/-ItamarMaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/itamar-maran-a06046101/)
+-->
+ 
+ <a href="https://www.linkedin.com/in/itamar-maran-a06046101/" target="_blank"><img class="fit-picture"
+     src="https://img.shields.io/badge/-ItamarMaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/"
+     alt="Linkedin-Itamar"></a>
 
 
 <!--
