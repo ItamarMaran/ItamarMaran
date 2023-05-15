@@ -3,7 +3,7 @@
 <!-- about me -->
 
 ## $> whoami:
-  * <img width="18" src="https://img.icons8.com/color/96/000000/brazil-circular.png" alt="Brazil" /> I'm from Brazil
+  * I'm from Brazil <img width="18" src="https://img.icons8.com/color/96/000000/brazil-circular.png" alt="Brazil" />
 
 ## Tech Stack:
 <!-- * Programming Language -->
@@ -23,16 +23,6 @@
   <img align="center" alt="ita-arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
    
-
-## Github Analytics and Coding Activity:
-
-<div>
-  <a href="https://github.com/ItamarMaran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItamarMaran&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarMaran&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
 ## Connect with me:
  <!--
   [![Linkedin Badge](https://img.shields.io/badge/-ItamarMaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/itamar-maran-a06046101/)
